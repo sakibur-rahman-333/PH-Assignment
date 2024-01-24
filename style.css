@@ -250,3 +250,125 @@
   font-weight: 700;
   line-height: normal;
 }
+
+.scetion-7-common-fnt-style {
+  font-style: normal;
+}
+
+.scetion-7 {
+  height: 950px;
+}
+.scetion-7-bst-gft {
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.scetion-7-awsm-portflo {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-weight: 900;
+  line-height: normal;
+  text-transform: capitalize;
+}
+
+.scetion-7-lorem {
+  width: 65%;
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px; /* 160% */
+}
+
+.section-7-img-div {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: start;
+}
+
+.scetion-7-img {
+  width: 30%;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.section-8 {
+  height: 500px;
+  border-radius: 16px;
+  background: rgba(255, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.section-8-inp {
+  height: 40px;
+  border: none;
+  border-radius: 50px 0px 0px 50px;
+  background: #fff;
+}
+
+.section-8-btn {
+  height: 40px;
+  margin-left: -5px;
+  border-radius: 0px 50px 50px 0px;
+  background: #f00;
+  border: none;
+}
+
+.section-8-subscribe {
+  color: #fff;
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: capitalize;
+}
+
+.footer-top {
+  display: flex;
+  justify-content: space-around;
+}
+
+.footer-text {
+  color: #fff;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.footer-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 500px;
+  background: #070211;
+}
+
+.footer-top-contract-phone {
+  display: flex;
+}
+
+.footer-social-logos {
+  display: flex;
+  justify-content: center;
+}
+
+.social-logo-margin {
+  margin-left: 20px;
+}
+
+body {
+  margin: 0;
+}
